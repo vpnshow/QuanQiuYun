@@ -1,6 +1,6 @@
 <a id="quanqiuyun-vpn-review"></a>
 
-# 全球云(QuanQiuYun)VPN官网入口｜优惠码｜套餐与测速图
+# 全球云(QuanQiuYun)VPN官网入口｜套餐价格与测速图
 
 ![全球云(QuanQiuYun)](https://i.eoht.net/airport/quanqiuyun_logo.webp)
 
@@ -14,11 +14,10 @@
 > - **月付起步**：入门方案 ¥20/月、120GB/月；另有 300GB、700GB 和 1500GB/月档位。
 > - **最低年付**：轻量版 ¥99/年、59GB/月，折合 ¥8.25/月，需一次支付全年费用。
 > - **不限时流量包**：¥100/100GB、¥360/400GB、¥700/800GB，一次性付款，固定总流量用完为止。
-> - **中秋优惠**：年付及以上使用 `zq80` 享 8 折；年付以下使用 `zq85` 享 85 折。
 > - **协议与订阅**：Shadowsocks，支持通用订阅与多设备使用。
 > - **支付方式**：支付宝、微信支付、USDT。
 >
-> [查看套餐与优惠码](https://eoht.net/serve/airport/quanqiuyun#quanqiuyun-vpn-plans) · [查看测速图](https://eoht.net/serve/airport/quanqiuyun#quanqiuyun-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> [查看套餐价格](https://eoht.net/serve/airport/quanqiuyun#quanqiuyun-vpn-plans) · [查看测速图](https://eoht.net/serve/airport/quanqiuyun#quanqiuyun-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
 
 <a id="quanqiuyun-official-website"></a>
@@ -29,7 +28,7 @@
 
 [查看全球云套餐](https://eoht.net/serve/airport/quanqiuyun)
 
-本页整理全球云(QuanQiuYun)的推广注册入口、套餐价格、优惠条件、支付方式与测速资料，套餐供应及最终付款金额以购买页为准。
+本页整理全球云(QuanQiuYun)的推广注册入口、套餐价格、支付方式与测速资料，套餐供应及最终付款金额以购买页为准。
 
 <a id="quanqiuyun-airport-overview"></a>
 
@@ -45,15 +44,12 @@
 
 <a id="quanqiuyun-vpn-plans"></a>
 
-## 全球云(QuanQiuYun)VPN套餐价格与优惠码
+## 全球云(QuanQiuYun)VPN套餐价格
 
 > [!TIP]
-> **中秋优惠与价格说明**
+> **价格说明**
 >
-> - **年付及以上套餐**：使用 `zq80`，享 **8 折**。
-> - **年付以下套餐**：使用 `zq85`，享 **85 折**。
-> - 结算时输入对应优惠码，核对折扣与实付金额；不限时流量包是否参与活动，以结算页为准。
-> - 下表为**使用优惠码前的套餐标价**，月付、季付、半年付与年付均为对应周期的总额；周期套餐流量为每月额度。
+> - 下表为**套餐标价**，月付、季付、半年付与年付均为对应周期的总额；周期套餐流量为每月额度，最终实付金额以结算页为准。
 > - 轻量版需一次支付 ¥99，折合 ¥8.25/月不代表可以按此价格单月购买。
 >
 
@@ -105,13 +101,13 @@
 
 ### 全球云最低多少钱，支持按月购买吗？
 
-轻量版为 **¥99/年、59GB/月**，折合 **¥8.25/月**，需要一次支付全年费用。按月购买可选 **¥20/月、120GB/月**的入门方案，以上均为使用优惠码前的标价。
+轻量版为 **¥99/年、59GB/月**，折合 **¥8.25/月**，需要一次支付全年费用。按月购买可选 **¥20/月、120GB/月**的入门方案，以上均为套餐标价。
 
 <a id="quanqiuyun-coupon-rules"></a>
 
-### zq80 和 zq85 分别适用于哪些套餐？
+### 全球云有优惠码吗？
 
-`zq80` 适用于年付及以上套餐，享 8 折；`zq85` 适用于年付以下套餐，享 85 折。结算时按付款周期选择优惠码并核对实付金额，不限时流量包的活动参与情况以结算结果为准。
+本站暂未收录常规优惠码，可通过官网查看套餐活动，购买前请核对结算金额与适用条件。
 
 <a id="quanqiuyun-one-time-plans"></a>
 
