@@ -93,6 +93,18 @@
 
 ![全球云(QuanQiuYun) 节点测速图](https://i.eoht.net/airport/quanqiuyun_speed.webp)
 
+**历史截图摘录**：来源为本页已收录的服务商测速图，图内时间为 **2026-07-20 10:30:26（CST）**，不是本次重新测速。MiaoKo 页脚标注珠海联通 9Gbps、32 线程，主端 4.3.3、喵速 4.7.0；图内协议为 VLESS，与当前正文的 Shadowsocks 资料应分开理解。
+
+| 节点摘录 | TLS RTT | HTTPS 延迟 | 平均速度（原图） | 最高速度（原图） | UDP 类型 |
+| --- | --- | --- | --- | --- | --- |
+| HK 香港 01 | 86ms | 702ms | 239.33MB | 352.73MB | Unknown |
+| HK 香港 12 | 98ms | 478ms | 534.46MB | 595.75MB | FullCone |
+| SG 新加坡 09 | 130ms | 655ms | 117.89MB | 298.18MB | FullCone |
+| JP 日本 02 | 131ms | 2360ms | 157.32MB | 340.50MB | FullCone |
+| US 美国 10 | 98ms | 478ms | 534.46MB | 595.75MB | FullCone |
+
+速度按原图保留 MB 标注，不换算为 Mbps；Unknown 表示该项未确定。测速目标、单节点持续时间与复测次数未记录，延迟与速度也不能证明当前流媒体解锁状态。
+
 <a id="quanqiuyun-faq"></a>
 
 ## 全球云(QuanQiuYun)VPN套餐与使用常见问题
