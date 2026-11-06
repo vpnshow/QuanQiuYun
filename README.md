@@ -1,6 +1,6 @@
 <a id="quanqiuyun-vpn-review"></a>
 
-# 全球云(QuanQiuYun)VPN官网入口｜套餐价格与测速图
+# 全球云(QuanQiuYun)VPN官网入口｜新人优惠码｜套餐价格与测速图
 
 ![全球云(QuanQiuYun)](https://i.eoht.net/airport/quanqiuyun_logo.webp)
 
@@ -16,6 +16,7 @@
 > - **不限时流量包**：¥100/100GB、¥360/400GB、¥700/800GB，一次性付款，固定总流量用完为止。
 > - **协议与订阅**：Shadowsocks，支持通用订阅与多设备使用。
 > - **支付方式**：支付宝、微信支付、USDT。
+> - **新人优惠**：优惠码 `qq88` 享 8 折，适用套餐及其他条件以结算页为准。
 >
 > [查看套餐价格](https://eoht.net/serve/airport/quanqiuyun#quanqiuyun-vpn-plans) · [查看测速图](https://eoht.net/serve/airport/quanqiuyun#quanqiuyun-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
@@ -24,7 +25,7 @@
 
 ## 全球云(QuanQiuYun)VPN官网与推广注册入口
 
-**月付 ¥20 起、120GB/月；轻量版 ¥99/年、59GB/月，折合 ¥8.25/月。支持通用订阅，另有 ¥100/100GB 起的不限时流量包。**
+**月付 ¥20 起、120GB/月；轻量版 ¥99/年、59GB/月，折合 ¥8.25/月。支持通用订阅，另有 ¥100/100GB 起的不限时流量包；新人优惠码 `qq88` 享 8 折。**
 
 [查看全球云套餐](https://eoht.net/serve/airport/quanqiuyun)
 
@@ -47,8 +48,9 @@
 ## 全球云(QuanQiuYun)VPN套餐价格
 
 > [!TIP]
-> **价格说明**
+> **新人优惠与价格说明**
 >
+> - **新人 8 折优惠码**：`qq88`，适用套餐及其他条件以结算页为准。
 > - 下表为**套餐标价**，月付、季付、半年付与年付均为对应周期的总额；周期套餐流量为每月额度，最终实付金额以结算页为准。
 > - 轻量版需一次支付 ¥99，折合 ¥8.25/月不代表可以按此价格单月购买。
 >
@@ -119,7 +121,7 @@
 
 ### 全球云有优惠码吗？
 
-本站暂未收录常规优惠码，可通过官网查看套餐活动，购买前请核对结算金额与适用条件。
+新人可使用优惠码 **`qq88` 享 8 折**。选择套餐后在结算页输入优惠码，核对适用条件与实付金额；本页套餐价格未预先叠加优惠。
 
 <a id="quanqiuyun-one-time-plans"></a>
 
