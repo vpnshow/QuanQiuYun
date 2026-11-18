@@ -6,20 +6,17 @@
 
 [完整详情与最新套餐](https://eoht.net/serve/airport/quanqiuyun) · [机场仓库汇总](https://github.com/vpnshow/airport-summary)
 
-全球云（QuanQiuYun）主打**专线出口与 BGP 智能路由优化**，采用 **Shadowsocks 协议**，支持通用订阅。入门方案从 **¥20/月、120GB/月**起；轻量版为 **¥99/年、59GB/月**，折合 **¥8.25/月**。另有 **100GB、400GB、800GB** 一次性不限时流量包，以及独享私人专线节点。
-
 > [!NOTE]
 > **30 秒看懂全球云(QuanQiuYun)**
 >
-> - **月付起步**：入门方案 ¥20/月、120GB/月；另有 300GB、700GB 和 1500GB/月档位。
-> - **最低年付**：轻量版 ¥99/年、59GB/月，折合 ¥8.25/月，需一次支付全年费用。
-> - **不限时流量包**：¥100/100GB、¥360/400GB、¥700/800GB，一次性付款，固定总流量用完为止。
-> - **协议与订阅**：Shadowsocks，支持通用订阅与多设备使用。
-> - **支付方式**：支付宝、微信支付、USDT。
-> - **新人优惠**：优惠码 `qq88` 享 8 折，适用套餐及其他条件以结算页为准。
+> [访问官网](https://eoht.net/serve/airport/quanqiuyun) · [查看套餐价格](https://eoht.net/serve/airport/quanqiuyun#quanqiuyun-vpn-plans) · [查看测速图](https://eoht.net/serve/airport/quanqiuyun#quanqiuyun-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐价格](https://eoht.net/serve/airport/quanqiuyun#quanqiuyun-vpn-plans) · [查看测速图](https://eoht.net/serve/airport/quanqiuyun#quanqiuyun-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：月付 ¥20、120GB/月；轻量版 ¥99/年、59GB/月，年付需一次支付全年费用。
+> - **使用方式**：Shadowsocks 通用订阅，支持多设备；另有一次性总流量包，用完为止。
+> - **新人优惠**：`qq88` 享 8 折，适用套餐及其他条件以结算页为准。
 >
+
+全球云（QuanQiuYun）主打**专线出口与 BGP 智能路由优化**，采用 **Shadowsocks 协议**，支持通用订阅。入门方案从 **¥20/月、120GB/月**起；轻量版为 **¥99/年、59GB/月**，折合 **¥8.25/月**。另有 **100GB、400GB、800GB** 一次性不限时流量包，以及独享私人专线节点。
 
 <a id="quanqiuyun-official-website"></a>
 
